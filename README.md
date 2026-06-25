@@ -25,7 +25,8 @@ Due to the massive scale of the dataset (5.7M+ rows), traditional spreadsheet to
 * Extracted specific temporal elements: `hour_of_day`, `day_of_week`, and `month_name`.
 * Engineered a custom `ride_duration_bucket` column to categorically segment user behaviors (e.g., '0-10 Mins', '1+ Hours').
 
-*(The full, reproducible SQL cleaning script is available in this repository as `combined_tripdata_cleaned.sql`)*
+**(The full, reproducible SQL cleaning script is available in this repository as [`combined_tripdata_cleaned.sql`](https://github.com/cesarWings/cyclistic-behavioral-analysis/blob/main/combined_tripdata_cleaned.sql))**
+
 
 ## 5. Analysis & Insights (Analyze & Share)
 Based on the aggregated metrics, distinct behavioral patterns between Casual Riders and Annual Members emerged across three core dimensions:
