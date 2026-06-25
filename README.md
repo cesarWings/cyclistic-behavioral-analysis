@@ -30,7 +30,7 @@ Due to the massive scale of the dataset (5.7M+ rows), traditional spreadsheet to
 ## 5. Analysis & Insights (Analyze & Share)
 Based on the aggregated metrics, distinct behavioral patterns between Casual Riders and Annual Members emerged across three core dimensions:
 
-* **The Commuter vs. The Explorer (Weekly Trends):** Annual Members peak during the traditional workweek (Tuesday–Thursday), with rigidly consistent ride durations (~11–13 minutes), indicating routine transit. Casual Riders skew heavily toward the weekend. Saturday is their highest volume day (399,124 rides), and they spend nearly twice as much time on the bikes (averaging 25.72 minutes), indicating leisure and recreation.
+* **The Commuter vs. The Explorer (Weekly Trends):** Annual Members peak during the traditional workweek (specifically from Tuesday to Thursday), with rigidly consistent ride durations (~11–13 minutes), indicating routine transit. Casual Riders skew heavily toward the weekend. Saturday is their highest volume day (399,124 rides), and they spend nearly twice as much time on the bikes (averaging 25.72 minutes), indicating leisure and recreation.
 * **Seasonal Elasticity:** Casual riders are highly sensitive to seasonality. Their volume experiences a rapid, aggressive spike at the onset of summer, jumping from ~176k rides in May to over 324k by August, before plummeting by over 90% in the winter.
 
 ## 6. Strategic Recommendations (Act)
